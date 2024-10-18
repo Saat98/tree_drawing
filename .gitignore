@@ -1,0 +1,7 @@
+# Configuration files and virtual environments
+.venv/
+.vscode/
+
+# Auxiliary files
+*.png
+*.json
